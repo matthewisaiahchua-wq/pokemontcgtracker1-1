@@ -1,0 +1,499 @@
+set_name,card_id,card_name,pull_rate
+me02,me02-001,Oddish,0.11664
+me02,me02-002,Gloom,0.11664
+me02,me02-003,Vileplume,0.034803
+me02,me02-004,Mega Heracross ex,0.02083333333
+me02,me02-005,Lotad,0.11664
+me02,me02-006,Lombre,0.11664
+me02,me02-007,Ludicolo,0.136261
+me02,me02-008,Genesect,0.034803
+me02,me02-009,Nymble,0.11664
+me02,me02-010,Lokix,0.136261
+me02,me02-011,Charmander,0.11664
+me02,me02-012,Charmeleon,0.11664
+me02,me02-013,Mega Charizard X ex,0.02083333333
+me02,me02-014,Moltres,0.034803
+me02,me02-015,Darumaka,0.11664
+me02,me02-016,Darmanitan,0.136261
+me02,me02-017,Reshiram,0.034803
+me02,me02-018,Oricorio ex,0.02083333333
+me02,me02-019,Charcadet,0.11664
+me02,me02-020,Ceruledge,0.136261
+me02,me02-021,Seel,0.11664
+me02,me02-022,Dewgong,0.11664
+me02,me02-023,Swinub,0.11664
+me02,me02-024,Piloswine,0.11664
+me02,me02-025,Mamoswine,0.136261
+me02,me02-026,Suicune,0.034803
+me02,me02-027,Piplup,0.11664
+me02,me02-028,Prinplup,0.11664
+me02,me02-029,Rotom ex,0.02083333333
+me02,me02-030,Yamper,0.11664
+me02,me02-031,Boltund,0.11664
+me02,me02-032,Pawmi,0.11664
+me02,me02-033,Pawmo,0.11664
+me02,me02-034,Pawmot,0.034803
+me02,me02-035,Misdreavus,0.11664
+me02,me02-036,Mismagius ex,0.02083333333
+me02,me02-037,Snubbull,0.11664
+me02,me02-038,Granbull,0.136261
+me02,me02-039,Cresselia,0.136261
+me02,me02-040,Meloetta,0.136261
+me02,me02-041,Mega Diancie ex,0.02083333333
+me02,me02-042,Mimikyu,0.11664
+me02,me02-043,Milcery,0.11664
+me02,me02-044,Alcremie,0.136261
+me02,me02-045,Zacian,0.034803
+me02,me02-046,Bramblin,0.11664
+me02,me02-047,Brambleghast,0.136261
+me02,me02-048,Paldean Tauros,0.136261
+me02,me02-049,Gligar,0.11664
+me02,me02-050,Gliscor,0.136261
+me02,me02-051,Trapinch,0.11664
+me02,me02-052,Vibrava,0.11664
+me02,me02-053,Flygon,0.034803
+me02,me02-054,Gastly,0.11664
+me02,me02-055,Haunter,0.136261
+me02,me02-056,Mega Gengar ex,0.02083333333
+me02,me02-057,Murkrow,0.11664
+me02,me02-058,Honchkrow,0.136261
+me02,me02-059,Sableye,0.11664
+me02,me02-060,Carvanha,0.11664
+me02,me02-061,Mega Sharpedo ex,0.02083333333
+me02,me02-062,Seviper,0.136261
+me02,me02-063,Absol,0.11664
+me02,me02-064,Sandile,0.11664
+me02,me02-065,Krokorok,0.11664
+me02,me02-066,Krookodile,0.136261
+me02,me02-067,Toxel,0.11664
+me02,me02-068,Toxtricity,0.034803
+me02,me02-069,Eternatus,0.136261
+me02,me02-070,Empoleon ex,0.02083333333
+me02,me02-071,Bronzor,0.11664
+me02,me02-072,Bronzong,0.136261
+me02,me02-073,Togedemaru,0.11664
+me02,me02-074,Duraludon,0.11664
+me02,me02-075,Archaludon,0.136261
+me02,me02-076,Jigglypuff,0.11664
+me02,me02-077,Wigglytuff,0.136261
+me02,me02-078,Aipom,0.11664
+me02,me02-079,Ambipom,0.034803
+me02,me02-080,Smeargle,0.11664
+me02,me02-081,Zigzagoon,0.11664
+me02,me02-082,Linoone,0.136261
+me02,me02-083,Buneary,0.11664
+me02,me02-084,Mega Lopunny ex,0.02083333333
+me02,me02-085,Battle Cage,0.136261
+me02,me02-086,Blowtorch,0.136261
+me02,me02-087,Dawn,0.136261
+me02,me02-088,Dizzying Valley,0.136261
+me02,me02-089,Firebreather,0.136261
+me02,me02-090,Grimsley's Move,0.136261
+me02,me02-091,Jumbo Ice Cream,0.136261
+me02,me02-092,Punk Helmet,0.136261
+me02,me02-093,Sacred Charm,0.136261
+me02,me02-094,Wondrous Patch,0.136261
+me02,me02-095,Ludicolo,0.008474576271
+me02,me02-096,Nymble,0.008474576271
+me02,me02-097,Dewgong,0.008474576271
+me02,me02-098,Piplup,0.008474576271
+me02,me02-099,Yamper,0.008474576271
+me02,me02-100,Zacian,0.008474576271
+me02,me02-101,Flygon,0.008474576271
+me02,me02-102,Paldean Wooper,0.008474576271
+me02,me02-103,Toxtricity,0.008474576271
+me02,me02-104,Togedemaru,0.008474576271
+me02,me02-105,Wigglytuff,0.008474576271
+me02,me02-106,Meowth,0.008474576271
+me02,me02-107,Ambipom,0.008474576271
+me02,me02-108,Mega Heracross ex,0.004739336493
+me02,me02-109,Mega Charizard X ex,0.004739336493
+me02,me02-110,Oricorio ex,0.004739336493
+me02,me02-111,Rotom ex,0.004739336493
+me02,me02-112,Mismagius ex,0.004739336493
+me02,me02-113,Mega Sharpedo ex,0.004739336493
+me02,me02-114,Empoleon ex,0.004739336493
+me02,me02-115,Mega Lopunny ex,0.004739336493
+me02,me02-116,Battle Cage,0.004739336493
+me02,me02-117,Blowtorch,0.004739336493
+me02,me02-118,Dawn,0.004739336493
+me02,me02-119,Firebreather,0.004739336493
+me02,me02-120,Grimsley's Move,0.004739336493
+me02,me02-121,Punk Helmet,0.004739336493
+me02,me02-122,Sacred Charm,0.004739336493
+me02,me02-123,Switch,0.004739336493
+me02,me02-124,Ignition Energy,0.004739336493
+me02,me02-125,Mega Charizard X ex,0.0025
+me02,me02-126,Rotom ex,0.0025
+me02,me02-127,Mega Sharpedo ex,0.0025
+me02,me02-128,Mega Lopunny ex,0.0025
+me02,me02-129,Dawn,0.0025
+me02,me02-130,Mega Charizard X ex,0.0007936507937
+me01,me01-001,Bulbasaur,0.07424328358
+me01,me01-002,Ivysaur,0.07424328358
+me01,me01-003,Mega Venusaur ex,0.02083333333
+me01,me01-004,Exeggcute,0.07424328358
+me01,me01-005,Exeggutor,0.09898604651
+me01,me01-006,Tangela,0.07424328358
+me01,me01-007,Tangrowth,0.09898604651
+me01,me01-008,Chikorita,0.07424328358
+me01,me01-009,Bayleef,0.07424328358
+me01,me01-010,Meganium,0.02991666667
+me01,me01-011,Shuckle,0.09898604651
+me01,me01-012,Celebi,0.09898604651
+me01,me01-013,Seedot,0.07424328358
+me01,me01-014,Nuzleaf,0.07424328358
+me01,me01-015,Shiftry,0.09898604651
+me01,me01-016,Nincada,0.07424328358
+me01,me01-017,Ninjask,0.09898604651
+me01,me01-018,Dhelmise,0.07424328358
+me01,me01-019,Vulpix,0.07424328358
+me01,me01-020,Ninetales,0.09898604651
+me01,me01-021,Numel,0.07424328358
+me01,me01-022,Mega Camerupt ex,0.02083333333
+me01,me01-023,Litleo,0.07424328358
+me01,me01-024,Pyroar,0.09898604651
+me01,me01-025,Volcanion,0.09898604651
+me01,me01-026,Scorbunny,0.07424328358
+me01,me01-027,Raboot,0.07424328358
+me01,me01-028,Cinderace,0.02991666667
+me01,me01-029,Sizzlipede,0.07424328358
+me01,me01-030,Centiskorch,0.09898604651
+me01,me01-031,Chi-Yu,0.09898604651
+me01,me01-032,Mantine,0.07424328358
+me01,me01-033,Corphish,0.07424328358
+me01,me01-034,Kyogre,0.02991666667
+me01,me01-035,Snover,0.07424328358
+me01,me01-036,Mega Abomasnow ex,0.02083333333
+me01,me01-037,Clauncher,0.07424328358
+me01,me01-038,Clawitzer,0.02991666667
+me01,me01-039,Sobble,0.07424328358
+me01,me01-040,Drizzile,0.07424328358
+me01,me01-041,Inteleon,0.09898604651
+me01,me01-042,Snom,0.07424328358
+me01,me01-043,Frosmoth,0.09898604651
+me01,me01-044,Eiscue,0.07424328358
+me01,me01-045,Magnemite,0.07424328358
+me01,me01-046,Magneton,0.07424328358
+me01,me01-047,Magnezone,0.09898604651
+me01,me01-048,Raikou,0.02991666667
+me01,me01-049,Electrike,0.07424328358
+me01,me01-050,Mega Manectric ex,0.02083333333
+me01,me01-051,Pachirisu,0.07424328358
+me01,me01-052,Helioptile,0.07424328358
+me01,me01-053,Heliolisk,0.07424328358
+me01,me01-054,Abra,0.07424328358
+me01,me01-055,Kadabra,0.09898604651
+me01,me01-056,Alakazam,0.02991666667
+me01,me01-057,Jynx,0.07424328358
+me01,me01-058,Ralts,0.07424328358
+me01,me01-059,Kirlia,0.07424328358
+me01,me01-060,Mega Gardevoir ex,0.02083333333
+me01,me01-061,Shedinja,0.09898604651
+me01,me01-062,Spoink,0.07424328358
+me01,me01-063,Grumpig,0.09898604651
+me01,me01-064,Xerneas,0.02991666667
+me01,me01-065,Greavard,0.07424328358
+me01,me01-066,Houndstone,0.09898604651
+me01,me01-067,Gimmighoul,0.07424328358
+me01,me01-068,Sandshrew,0.07424328358
+me01,me01-069,Sandslash,0.07424328358
+me01,me01-070,Onix,0.07424328358
+me01,me01-071,Tyrogue,0.07424328358
+me01,me01-072,Makuhita,0.07424328358
+me01,me01-073,Hariyama,0.02991666667
+me01,me01-074,Lunatone,0.02991666667
+me01,me01-075,Solrock,0.09898604651
+me01,me01-076,Riolu,0.07424328358
+me01,me01-077,Mega Lucario ex,0.02083333333
+me01,me01-078,Croagunk,0.07424328358
+me01,me01-079,Toxicroak,0.07424328358
+me01,me01-080,Marshadow,0.09898604651
+me01,me01-081,Stonjourner,0.09898604651
+me01,me01-082,Nacli,0.07424328358
+me01,me01-083,Naclstack,0.07424328358
+me01,me01-084,Garganacl,0.09898604651
+me01,me01-085,Crawdaunt,0.09898604651
+me01,me01-086,Mega Absol ex,0.02083333333
+me01,me01-087,Spiritomb,0.09898604651
+me01,me01-088,Yveltal,0.02991666667
+me01,me01-089,Nickit,0.07424328358
+me01,me01-090,Thievul,0.07424328358
+me01,me01-091,Shroodle,0.07424328358
+me01,me01-092,Grafaiai,0.07424328358
+me01,me01-093,Steelix,0.02991666667
+me01,me01-094,Mega Mawile ex,0.02083333333
+me01,me01-095,Dialga,0.02991666667
+me01,me01-096,Tinkatink,0.07424328358
+me01,me01-097,Tinkatuff,0.07424328358
+me01,me01-098,Tinkaton,0.09898604651
+me01,me01-099,Gholdengo,0.09898604651
+me01,me01-100,Mega Latias ex,0.02083333333
+me01,me01-101,Latios,0.09898604651
+me01,me01-102,Spearow,0.07424328358
+me01,me01-103,Fearow,0.07424328358
+me01,me01-104,Mega Kangaskhan ex,0.02083333333
+me01,me01-105,Delibird,0.07424328358
+me01,me01-106,Miltank,0.07424328358
+me01,me01-107,Buneary,0.07424328358
+me01,me01-108,Lopunny,0.07424328358
+me01,me01-109,Yungoos,0.07424328358
+me01,me01-110,Gumshoos,0.09898604651
+me01,me01-111,Stufful,0.07424328358
+me01,me01-112,Bewear,0.07424328358
+me01,me01-113,Acerola's Mischief,0.09898604651
+me01,me01-114,Boss's Orders,0.09898604651
+me01,me01-115,Energy Switch,0.07424328358
+me01,me01-116,Fighting Gong,0.09898604651
+me01,me01-117,Forest of Vitality,0.09898604651
+me01,me01-118,Iron Defender,0.09898604651
+me01,me01-119,Lillie's Determination,0.09898604651
+me01,me01-120,Lt. Surge's Bargain,0.09898604651
+me01,me01-121,Mega Signal,0.09898604651
+me01,me01-122,Mystery Garden,0.09898604651
+me01,me01-123,Pokémon Center Lady,0.07424328358
+me01,me01-124,Premium Power Pro,0.09898604651
+me01,me01-125,Rare Candy,0.07424328358
+me01,me01-126,Repel,0.09898604651
+me01,me01-127,Risky Ruins,0.09898604651
+me01,me01-128,Strange Timepiece,0.09898604651
+me01,me01-129,Surfing Beach,0.09898604651
+me01,me01-130,Switch,0.07424328358
+me01,me01-131,Ultra Ball,0.07424328358
+me01,me01-132,Wally's Compassion,0.09898604651
+me01,me01-133,Bulbasaur,0.00495049505
+me01,me01-134,Ivysaur,0.00495049505
+me01,me01-135,Exeggutor,0.00495049505
+me01,me01-136,Shuckle,0.00495049505
+me01,me01-137,Ninjask,0.00495049505
+me01,me01-138,Vulpix,0.00495049505
+me01,me01-139,Litleo,0.00495049505
+me01,me01-140,Snover,0.00495049505
+me01,me01-141,Clawitzer,0.00495049505
+me01,me01-142,Inteleon,0.00495049505
+me01,me01-143,Helioptile,0.00495049505
+me01,me01-144,Shedinja,0.00495049505
+me01,me01-145,Houndstone,0.00495049505
+me01,me01-146,Marshadow,0.00495049505
+me01,me01-147,Garganacl,0.00495049505
+me01,me01-148,Spiritomb,0.00495049505
+me01,me01-149,Shroodle,0.00495049505
+me01,me01-150,Steelix,0.00495049505
+me01,me01-151,Spearow,0.00495049505
+me01,me01-152,Delibird,0.00495049505
+me01,me01-153,Gumshoos,0.00495049505
+me01,me01-154,Stufful,0.00495049505
+me01,me01-155,Mega Venusaur ex,0.003745318352
+me01,me01-156,Mega Camerupt ex,0.003745318352
+me01,me01-157,Mega Abomasnow ex,0.003745318352
+me01,me01-158,Mega Manectric ex,0.003745318352
+me01,me01-159,Mega Gardevoir ex,0.003745318352
+me01,me01-160,Mega Lucario ex,0.003745318352
+me01,me01-161,Mega Absol ex,0.003745318352
+me01,me01-162,Mega Mawile ex,0.003745318352
+me01,me01-163,Mega Latias ex,0.003745318352
+me01,me01-164,Mega Kangaskhan ex,0.003745318352
+me01,me01-165,Acerola's Mischief,0.003745318352
+me01,me01-166,Air Balloon,0.003745318352
+me01,me01-167,Buddy-Buddy Poffin,0.003745318352
+me01,me01-168,Fighting Gong,0.003745318352
+me01,me01-169,Lillie's Determination,0.003745318352
+me01,me01-170,Lt. Surge's Bargain,0.003745318352
+me01,me01-171,Mega Signal,0.003745318352
+me01,me01-172,Mystery Garden,0.003745318352
+me01,me01-173,Night Stretcher,0.003745318352
+me01,me01-174,Premium Power Pro,0.003745318352
+me01,me01-175,Rare Candy,0.003745318352
+me01,me01-176,Wally's Compassion,0.003745318352
+me01,me01-177,Mega Venusaur ex,0.0009920634921
+me01,me01-178,Mega Gardevoir ex,0.0009920634921
+me01,me01-179,Mega Lucario ex,0.0009920634921
+me01,me01-180,Mega Absol ex,0.0009920634921
+me01,me01-181,Mega Latias ex,0.0009920634921
+me01,me01-182,Mega Kangaskhan ex,0.0009920634921
+me01,me01-183,Acerola's Mischief,0.0009920634921
+me01,me01-184,Lillie's Determination,0.0009920634921
+me01,me01-185,Lt. Surge's Bargain,0.0009920634921
+me01,me01-186,Wally's Compassion,0.0009920634921
+me01,me01-187,Mega Gardevoir ex,0.0003968253968
+me01,me01-188,Mega Lucario ex,0.0003968253968
+sv8pt5,sv8pt5-001,Exeggcute,0.1167
+sv8pt5,sv8pt5-002,Exeggutor,0.1022171429
+sv8pt5,sv8pt5-003,Pinsir,0.1167
+sv8pt5,sv8pt5-004,Budew,0.1167
+sv8pt5,sv8pt5-005,Leafeon,0.03912857143
+sv8pt5,sv8pt5-006,Leafeon ex,0.009523809524
+sv8pt5,sv8pt5-007,Cottonee,0.1167
+sv8pt5,sv8pt5-008,Whimsicott,0.03912857143
+sv8pt5,sv8pt5-009,Applin,0.1167
+sv8pt5,sv8pt5-010,Dipplin,0.1022171429
+sv8pt5,sv8pt5-011,Hydrapple ex,0.009523809524
+sv8pt5,sv8pt5-012,Teal Mask Ogerpon ex,0.009523809524
+sv8pt5,sv8pt5-013,Flareon,0.03912857143
+sv8pt5,sv8pt5-014,Flareon ex,0.009523809524
+sv8pt5,sv8pt5-015,Litleo,0.1167
+sv8pt5,sv8pt5-016,Pyroar,0.1022171429
+sv8pt5,sv8pt5-017,Hearthflame Mask Ogerpon ex,0.009523809524
+sv8pt5,sv8pt5-018,Slowpoke,0.1167
+sv8pt5,sv8pt5-019,Slowking,0.1022171429
+sv8pt5,sv8pt5-020,Goldeen,0.1167
+sv8pt5,sv8pt5-021,Seaking,0.1022171429
+sv8pt5,sv8pt5-022,Vaporeon,0.03912857143
+sv8pt5,sv8pt5-023,Vaporeon ex,0.009523809524
+sv8pt5,sv8pt5-024,Suicune,0.1022171429
+sv8pt5,sv8pt5-025,Glaceon,0.03912857143
+sv8pt5,sv8pt5-026,Glaceon ex,0.009523809524
+sv8pt5,sv8pt5-027,Wellspring Mask Ogerpon ex,0.009523809524
+sv8pt5,sv8pt5-028,Pikachu ex,0.009523809524
+sv8pt5,sv8pt5-029,Jolteon,0.03912857143
+sv8pt5,sv8pt5-030,Jolteon ex,0.009523809524
+sv8pt5,sv8pt5-031,Iron Hands ex,0.009523809524
+sv8pt5,sv8pt5-032,Iron Thorns ex,0.009523809524
+sv8pt5,sv8pt5-033,Espeon,0.03912857143
+sv8pt5,sv8pt5-034,Espeon ex,0.009523809524
+sv8pt5,sv8pt5-035,Duskull,0.1167
+sv8pt5,sv8pt5-036,Dusclops,0.1167
+sv8pt5,sv8pt5-037,Dusknoir,0.03912857143
+sv8pt5,sv8pt5-038,Spritzee,0.1167
+sv8pt5,sv8pt5-039,Aromatisse,0.1167
+sv8pt5,sv8pt5-040,Sylveon,0.03912857143
+sv8pt5,sv8pt5-041,Sylveon ex,0.009523809524
+sv8pt5,sv8pt5-042,Scream Tail,0.1022171429
+sv8pt5,sv8pt5-043,Flutter Mane,0.03912857143
+sv8pt5,sv8pt5-044,Munkidori,0.03912857143
+sv8pt5,sv8pt5-045,Fezandipiti,0.03912857143
+sv8pt5,sv8pt5-046,Iron Boulder,0.03912857143
+sv8pt5,sv8pt5-047,Larvitar,0.1167
+sv8pt5,sv8pt5-048,Pupitar,0.1167
+sv8pt5,sv8pt5-049,Groudon,0.03912857143
+sv8pt5,sv8pt5-050,Riolu,0.1167
+sv8pt5,sv8pt5-051,Lucario ex,0.009523809524
+sv8pt5,sv8pt5-052,Hippopotas,0.1167
+sv8pt5,sv8pt5-053,Hippowdon,0.1167
+sv8pt5,sv8pt5-054,Bloodmoon Ursaluna,0.03912857143
+sv8pt5,sv8pt5-055,Great Tusk,0.1022171429
+sv8pt5,sv8pt5-056,Sandy Shocks ex,0.009523809524
+sv8pt5,sv8pt5-057,Okidogi,0.03912857143
+sv8pt5,sv8pt5-058,Cornerstone Mask Ogerpon ex,0.009523809524
+sv8pt5,sv8pt5-059,Umbreon,0.03912857143
+sv8pt5,sv8pt5-060,Umbreon ex,0.009523809524
+sv8pt5,sv8pt5-061,Sneasel,0.1167
+sv8pt5,sv8pt5-062,Houndour,0.1167
+sv8pt5,sv8pt5-063,Houndoom,0.1167
+sv8pt5,sv8pt5-064,Tyranitar ex,0.009523809524
+sv8pt5,sv8pt5-065,Roaring Moon,0.03912857143
+sv8pt5,sv8pt5-066,Bronzor,0.1167
+sv8pt5,sv8pt5-067,Bronzong,0.1022171429
+sv8pt5,sv8pt5-068,Heatran,0.1022171429
+sv8pt5,sv8pt5-069,Duraludon,0.1167
+sv8pt5,sv8pt5-070,Archaludon,0.03912857143
+sv8pt5,sv8pt5-071,Dreepy,0.1167
+sv8pt5,sv8pt5-072,Drakloak,0.1167
+sv8pt5,sv8pt5-073,Dragapult ex,0.009523809524
+sv8pt5,sv8pt5-074,Eevee,0.1167
+sv8pt5,sv8pt5-075,Eevee ex,0.009523809524
+sv8pt5,sv8pt5-076,Snorlax ex,0.009523809524
+sv8pt5,sv8pt5-077,Hoothoot,0.1167
+sv8pt5,sv8pt5-078,Noctowl,0.03912857143
+sv8pt5,sv8pt5-079,Dunsparce,0.1167
+sv8pt5,sv8pt5-080,Dudunsparce,0.03912857143
+sv8pt5,sv8pt5-081,Miltank,0.1167
+sv8pt5,sv8pt5-082,Lugia ex,0.009523809524
+sv8pt5,sv8pt5-083,Buneary,0.1167
+sv8pt5,sv8pt5-084,Lopunny,0.1167
+sv8pt5,sv8pt5-085,Fan Rotom,0.1167
+sv8pt5,sv8pt5-086,Regigigas,0.1022171429
+sv8pt5,sv8pt5-087,Shaymin,0.1022171429
+sv8pt5,sv8pt5-088,Furfrou,0.1167
+sv8pt5,sv8pt5-089,Hawlucha,0.1022171429
+sv8pt5,sv8pt5-090,Noibat,0.1167
+sv8pt5,sv8pt5-091,Noivern ex,0.009523809524
+sv8pt5,sv8pt5-092,Terapagos ex,0.009523809524
+sv8pt5,sv8pt5-093,Amarys,0.1167
+sv8pt5,sv8pt5-094,Area Zero Underdepths,0.1022171429
+sv8pt5,sv8pt5-095,Binding Mochi,0.1022171429
+sv8pt5,sv8pt5-096,Black Belt's Training,0.1167
+sv8pt5,sv8pt5-097,Black Belt's Training,0.1167
+sv8pt5,sv8pt5-098,Black Belt's Training,0.1167
+sv8pt5,sv8pt5-099,Black Belt's Training,0.1167
+sv8pt5,sv8pt5-100,Briar,0.1022171429
+sv8pt5,sv8pt5-101,Buddy-Buddy Poffin,0.1022171429
+sv8pt5,sv8pt5-102,Bug Catching Set,0.1022171429
+sv8pt5,sv8pt5-103,Carmine,0.1022171429
+sv8pt5,sv8pt5-104,Ciphermaniac's Codebreaking,0.1022171429
+sv8pt5,sv8pt5-105,Crispin,0.1022171429
+sv8pt5,sv8pt5-106,Earthen Vessel,0.1022171429
+sv8pt5,sv8pt5-107,Explorer's Guidance,0.1022171429
+sv8pt5,sv8pt5-108,Festival Grounds,0.1022171429
+sv8pt5,sv8pt5-109,Friends in Paldea,0.1167
+sv8pt5,sv8pt5-110,Glass Trumpet,0.1022171429
+sv8pt5,sv8pt5-111,Haban Berry,0.1167
+sv8pt5,sv8pt5-112,Janine's Secret Art,0.1022171429
+sv8pt5,sv8pt5-113,Kieran,0.1022171429
+sv8pt5,sv8pt5-114,Lacey,0.1022171429
+sv8pt5,sv8pt5-115,Larry's Skill,0.1167
+sv8pt5,sv8pt5-116,Max Rod,0.0078125
+sv8pt5,sv8pt5-117,Maximum Belt,0.0078125
+sv8pt5,sv8pt5-118,Ogre's Mask,0.1022171429
+sv8pt5,sv8pt5-119,Prime Catcher,0.0078125
+sv8pt5,sv8pt5-120,Professor Sada's Vitality,0.1022171429
+sv8pt5,sv8pt5-121,Professor Turo's Scenario,0.1022171429
+sv8pt5,sv8pt5-122,Professor's Research,0.1167
+sv8pt5,sv8pt5-123,Professor's Research,0.1167
+sv8pt5,sv8pt5-124,Professor's Research,0.1167
+sv8pt5,sv8pt5-125,Professor's Research,0.1167
+sv8pt5,sv8pt5-126,Rescue Board,0.1022171429
+sv8pt5,sv8pt5-127,Roto-Stick,0.1167
+sv8pt5,sv8pt5-128,Scoop Up Cyclone,0.0078125
+sv8pt5,sv8pt5-129,Sparkling Crystal,0.0078125
+sv8pt5,sv8pt5-130,Techno Radar,0.1022171429
+sv8pt5,sv8pt5-131,Treasure Tracker,0.0078125
+sv8pt5,sv8pt5-132,Amarys,0.006211180124
+sv8pt5,sv8pt5-133,Atticus,0.006211180124
+sv8pt5,sv8pt5-134,Atticus,0.006211180124
+sv8pt5,sv8pt5-135,Brassius,0.006211180124
+sv8pt5,sv8pt5-136,Eri,0.006211180124
+sv8pt5,sv8pt5-137,Friends in Paldea,0.006211180124
+sv8pt5,sv8pt5-138,Giacomo,0.006211180124
+sv8pt5,sv8pt5-139,Larry's Skill,0.006211180124
+sv8pt5,sv8pt5-140,Mela,0.006211180124
+sv8pt5,sv8pt5-141,Ortega,0.006211180124
+sv8pt5,sv8pt5-142,Raifort,0.006211180124
+sv8pt5,sv8pt5-143,Tyme,0.006211180124
+sv8pt5,sv8pt5-144,Leafeon ex,0.0006944444444
+sv8pt5,sv8pt5-145,Teal Mask Ogerpon ex,0.0006944444444
+sv8pt5,sv8pt5-146,Flareon ex,0.0006944444444
+sv8pt5,sv8pt5-147,Ceruledge ex,0.0006944444444
+sv8pt5,sv8pt5-148,Hearthflame Mask Ogerpon ex,0.0006944444444
+sv8pt5,sv8pt5-149,Vaporeon ex,0.0006944444444
+sv8pt5,sv8pt5-150,Glaceon ex,0.0006944444444
+sv8pt5,sv8pt5-151,Palafin ex,0.0006944444444
+sv8pt5,sv8pt5-152,Wellspring Mask Ogerpon ex,0.0006944444444
+sv8pt5,sv8pt5-153,Jolteon ex,0.0006944444444
+sv8pt5,sv8pt5-154,Iron Hands ex,0.0006944444444
+sv8pt5,sv8pt5-155,Espeon ex,0.0006944444444
+sv8pt5,sv8pt5-156,Sylveon ex,0.0006944444444
+sv8pt5,sv8pt5-157,Iron Valiant ex,0.0006944444444
+sv8pt5,sv8pt5-158,Iron Crown ex,0.0006944444444
+sv8pt5,sv8pt5-159,Sandy Shocks ex,0.0006944444444
+sv8pt5,sv8pt5-160,Cornerstone Mask Ogerpon ex,0.0006944444444
+sv8pt5,sv8pt5-161,Umbreon ex,0.0006944444444
+sv8pt5,sv8pt5-162,Roaring Moon ex,0.0006944444444
+sv8pt5,sv8pt5-163,Pecharunt ex,0.0006944444444
+sv8pt5,sv8pt5-164,Gholdengo ex,0.0006944444444
+sv8pt5,sv8pt5-165,Dragapult ex,0.0006944444444
+sv8pt5,sv8pt5-166,Raging Bolt ex,0.0006944444444
+sv8pt5,sv8pt5-167,Eevee ex,0.0006944444444
+sv8pt5,sv8pt5-168,Bloodmoon Ursaluna ex,0.0006944444444
+sv8pt5,sv8pt5-169,Terapagos ex,0.0006944444444
+sv8pt5,sv8pt5-170,Amarys,0.0006944444444
+sv8pt5,sv8pt5-171,Crispin,0.0006944444444
+sv8pt5,sv8pt5-172,Drayton,0.0006944444444
+sv8pt5,sv8pt5-173,Janine's Secret Art,0.0006944444444
+sv8pt5,sv8pt5-174,Kieran,0.0006944444444
+sv8pt5,sv8pt5-175,Lacey,0.0006944444444
+sv8pt5,sv8pt5-176,Iron Leaves ex,0.001111111111
+sv8pt5,sv8pt5-177,Teal Mask Ogerpon ex,0.001111111111
+sv8pt5,sv8pt5-178,Walking Wake ex,0.001111111111
+sv8pt5,sv8pt5-179,Pikachu ex,0.001111111111
+sv8pt5,sv8pt5-180,Terapagos ex,0.001111111111
